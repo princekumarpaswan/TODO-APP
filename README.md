@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the TODO-App](https://-prince.netlify.app/)
+## [Link to the TODO-App](https://p-todo-p.netlify.app/)
 
 
 ![Completed Website](./k1.png)
